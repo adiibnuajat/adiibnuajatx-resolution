@@ -2,7 +2,10 @@ AdiibnuajatX New Category Plan
 - Islamic Europe
   - Islamic European Countries
   - European Halal Foods
+  - Islamic Europe Business
 - Research
 - Islamic Mathematics
 - Islamic Software Engineering
+  - Programming
 - Islamic Artificial Intelligence
+- Islamic Machine Learning
