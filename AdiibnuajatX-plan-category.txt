@@ -3,5 +3,6 @@ AdiibnuajatX New Category Plan
   - Islamic European Countries
   - European Halal Foods
 - Research
+- Islamic Mathematics
 - Islamic Software Engineering
 - Islamic Artificial Intelligence
